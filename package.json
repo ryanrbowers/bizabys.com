@@ -1,0 +1,35 @@
+{
+  "name": "bizabys-com",
+  "version": "0.1.0",
+  "description": "Baby names website",
+  "author": "Ryan Bowers",
+  "license": "MIT",
+  "repository": "bizabys.com",
+  "devDependencies": {
+    "browser-sync": "^2.12.3",
+    "browserify": "^13.0.0",
+    "dev-ip": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.6",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0",
+    "gulp-sass-lint": "^1.1.1",
+    "gulp-serve": "^1.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+    "jquery": "^2.2.3",
+    "jshint": "^2.9.1",
+    "moment": "^2.12.0",
+    "require-dir": "^0.3.0",
+    "requirejs": "^2.2.0"
+  },
+  "dependencies": {
+    "del": "^2.2.0",
+    "imagemin-pngquant": "^4.2.2"
+  }
+}
